@@ -1,1 +1,1 @@
-calculSommeV3(30,2,4,67,8,2);
+calculSommeV3(15,3,5,87,8,2);
